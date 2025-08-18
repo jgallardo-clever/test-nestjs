@@ -17,9 +17,7 @@ on:
           - 'java-springboot-2.5.12'
           - 'net-framework'
           - 'php-laravel'
-          - 'nodejs-nestjs'
-          - 'nodejs-reactjs'
-          - 'nodejs-angularjs'
+          - 'nodejs'
       requiere_compilar:
         description: '¿Requiere compilar?'
         required: true
